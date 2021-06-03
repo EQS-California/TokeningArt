@@ -18,3 +18,6 @@ El proceso de tokenización de una obra de arte valiosa, amerita que uno o vario
 Una vez establecido el precio de la obra de arte y sus aspectos legales, de acuerdo con los parámetros especificados para tal fin, se procede a la tokenización propiamente dicha. Esta tokenización consiste en registrar los datos que identifican a la obra de forma unívoca, entre los cuales se agregan los datos que identifican al artista, el año en que se produjo la obra, su clasificación dentro de alguna categoría, estilo o tendencia artística, el nombre de la obra, el precio estimado, el número de tokens que alcanza la obra (esto último determina el precio de referencia de cada token) y otros muchos datos necesarios para identificar fielmente a la obra y, proveerla a su vez, de legitimidad.
 
 Una vez realizado este registro de los datos, se procede a subir el archivo generado a la blockchain seleccionada, en donde se registran los datos de la obra, de forma permanente, inmutable y transparente.
+
+
+
