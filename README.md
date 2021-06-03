@@ -2,12 +2,12 @@
 Al tokenizar una obra de arte se introduce una firma digital única que no puede ser alterada. El token digital obtenido representa a una única obra de arte y mediante la tecnología blockchain se garantiza que este token no sea copiado o falsificado.
 
 .
-## Introducción
+## 1. Introducción
 La aparición de la blockchain y las criptomonedas en el ámbito de la economía mundial, abrió amplios horizontes a los casos de uso de esta innovadora tecnología. Desde los procesos de compra y venta de activos digitales con características muy similares a las negociaciones con dinero fiat, pero de forma descentralizada, el comercio de bienes y servicios a cambio de criptomonedas, trading y bolsa de valores de bienes digitales, hasta la relativamente reciente tokenización digital de objetos, tangibles y no tangibles, incluyendo a las obras de arte.
 
 Es evidente que un aspecto interesante de la revolucionaria tecnología blockchain, es la amplia perspectiva que ésta nos ofrece con su transparencia, inmutabilidad y característica distribuida en la traslación de los valores que tienen los bienes, hacia los valores en una economía de bienes digitales, la tokenización.
 
-## 2.Introducción a la tokenización de obras de arte
+## 2. Introducción a la tokenización de obras de arte
 La tokenización de obras de arte se sitúa en la categoría de activos no fungibles, conocidos más comúnmente como NFTs, de sus siglas en inglés. Muchos emprendedores e inversores se suman a diario a la economía de activos digitales de esta categoría, quienes desean aumentar su liquidez mediante la comercialización de obras de artes. Las negociaciones que involucran obras de arte, alcanzan índices bastante considerables en las blockchains actualmente.
 
 El volumen de ventas virtuales de obras de arte ha experimentado un incremento bastante significativo en los últimos años, bien mediante casas de subastas, ferias o galerías de todos los tamaños y alcance. La tokenización de estas obras para almacenarlas y negociarlas a través de una blockchain se ha convertido en una práctica cada vez más extendida entre los entusiastas y coleccionistas de arte.
@@ -38,7 +38,7 @@ Lo que puede parecer bastante extraño a muchas personas, es que en muchas ocasi
 
 Lo que representa la tenencia de estos tokens es que el propietario de éstos, se acredita la propiedad de una parte de la obra de arte. Este hecho queda registrado de forma indeleble e irreversible en la blockchain correspondiente, a la que se puede acudir para fines de validación y legitimidad de dicha tenencia o propiedad. Como tal, estos tokens se pueden comerciar (compra/venta) o mantener a manera de ahorro.
 
-### 3. Ventajas de la tokenización del arte
+## 3. Ventajas de la tokenización del arte
 Con la tokenización del arte se abre un mayor espacio de participación, para que todas las personas, sin importar ningún tipo de barrera, pueda ingresar en este sector, que hasta el momento ha estado cautivo en manos de personas y empresas más acaudaladas del mundo. 
 
 Es decir, la tokenización permite que cualquier persona de cualquier nivel económico pueda ser poseedor de un fragmento de una obra de arte. Pudiendo de esta forma participar de las ganancias implícitas derivadas de la valorización de la obra, en proporción directa con la cantidad de tokens en su posesión.
