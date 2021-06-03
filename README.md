@@ -55,3 +55,15 @@ La diversificación de la cartera aumenta debido a que los inversores pueden ser
 Las negociaciones con activos tokenizados es posible en cualquier momento y desde cualquier lugar en el mundo, gracias al soporte de la tecnología blockchain, extendida actualmente en una gran proporción de las sociedades a través del planeta. Es decir, se puede acceder a la blockchain desde cualquier lugar del mundo y a cualquier hora del día (a través de una App móvil o mediante la web).
 
 La tecnología blockchain establece un proceso mucho más definido al recopilar documentos, información y datos sobre activos, mientras que su carácter de inmutabilidad hace que nadie pueda borrar o cambiar el registro de propiedad cuando compra tokens.
+
+
+## Conclusión
+Al momento de querer tokenizar algo se debe tener muy presente el nivel de liquidez del mercado en el que se plantea colocar estos tokens. En el tema de las obras de arte, se conoce que es un sector que sufre de iliquidez, y en este sentido, la tokenización ofrece una oportunidad de llevar tokens de obras de arte al ecosistema cripto activo. 
+
+De esta forma se proporciona la posibilidad de comprar arte, total o parcialmente, a muchas personas que participan en los mercados de criptodivisas en busca de inversiones que les permitan hacer rendir su dinero o resguardarlo de los nocivos efectos de la inflación que ocurre actualmente en muchos países del mundo.
+
+Por otro lado, se tiene que podemos hacer token de los activos dentro o fuera de la cadena. Incluso, en ocasiones es más conveniente tokenizar fuera de la cadena de bloques, en especial aquellos activos que para transferirse necesitan la aprobación legal de un tercero, lo que permite afirmar que no todos los activos son adecuados para ser tokenizados en alguna blockchain. 
+
+No obstante, la tokenización de activos se hace cada vez más popular provocando que algunos países comiencen a revisar sus estatutos legales hacia los modelos de mercados digitales. Buscando con estas revisiones limar asperezas concernientes a los problemas originados por regulaciones transfronterizas respecto a los derechos de propiedad y los compromisos tributarios.
+
+Entonces, en la tokenización se tiene la posibilidad de cambios sustanciales respecto a cómo percibimos nuestra realidad en estos momentos. Permitiendo comprar y vender todo tipo de activos mientras se democratiza el proceso de poseer ideas o piezas de arte.
